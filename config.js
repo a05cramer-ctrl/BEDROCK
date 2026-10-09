@@ -1,1 +1,1 @@
-window.BEDROCK_CFG={NAME:"BEDROCK",TICKER:"BEDROCK",CA:"",CHAIN:"solana",PAD:"pumpfun",PAIR:"",X:"",BUY:"",CHART:""};
+window.BEDROCK_CFG={NAME:"BEDROCK",TICKER:"BEDROCK",CA:"A54vwT2Nn3stxDdEHPRPXL2E6AjXHyDW5Cw4hQN3pump",CHAIN:"solana",PAD:"pumpfun",PAIR:"",X:"https://x.com/bedrockworld_de",BUY:"https://pump.fun/coin/A54vwT2Nn3stxDdEHPRPXL2E6AjXHyDW5Cw4hQN3pump",CHART:"https://gmgn.ai/sol/token/A54vwT2Nn3stxDdEHPRPXL2E6AjXHyDW5Cw4hQN3pump"};
